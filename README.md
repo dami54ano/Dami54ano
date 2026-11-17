@@ -6,7 +6,7 @@
 
 Building practical digital experiences with a focus on clean design, functionality and real-world impact.
 
-[![MISFIT Instagram](https://img.shields.io/badge/MISFIT-Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/misfit.ch/)
+[![MISFIT Website](https://img.shields.io/badge/MISFIT-misfitwear.ch-8B5CF6?style=for-the-badge&logo=shopify&logoColor=white)](https://misfitwear.ch)
 
 </div>
 
