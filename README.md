@@ -1,75 +1,87 @@
+<!-- DAMIANO / PROFILE -->
 <div align="center">
+  <img src="./74cb3e07-9f59-41e2-b7ee-a5d18389a6b8.png" alt="Damiano · MISFIT" width="100%" />
 
-<img src="./74cb3e07-9f59-41e2-b7ee-a5d18389a6b8.png" alt="Damiano | MISFIT" width="100%" />
+  <br /><br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3100&pause=1100&color=AB82FF&center=true&vCenter=true&width=650&height=45&lines=Software+Developer;Building+Digital+Experiences;Founder+of+MISFIT" alt="Software Developer · Building Digital Experiences · Founder of MISFIT" />
+
+  <p>
+    <strong>Creative development. Thoughtful engineering. Independent thinking.</strong>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/BASED_IN-SWITZERLAND-17151F?style=flat-square&labelColor=17151F&color=8B5CF6" alt="Based in Switzerland" />
+    <img src="https://img.shields.io/badge/FOCUS-FULL_STACK-17151F?style=flat-square&labelColor=17151F&color=8B5CF6" alt="Full-stack development" />
+    <img src="https://img.shields.io/badge/STATUS-BUILDING-17151F?style=flat-square&labelColor=17151F&color=8B5CF6" alt="Building" />
+  </p>
+
+  <a href="https://misfitwear.ch">
+    <img src="https://img.shields.io/badge/MISFITWEAR.CH-Visit%20the%20Store-95BF47?style=for-the-badge&logo=shopify&logoColor=white&labelColor=20202A" alt="MISFITWEAR.CH · Visit the Store · Shopify" />
+  </a>
+</div>
 
 <br />
 
-`DEVELOPER` &nbsp; `BUILDER` &nbsp; `FOUNDER`
+<table>
+  <tr>
+    <td width="54%" valign="top">
+      <h3>01 &nbsp; / &nbsp; WHO AM I</h3>
+      <p>Hey, I'm <strong>Damiano</strong> — a software developer based in Switzerland.</p>
+      <p>I create digital products with an emphasis on clean interfaces, maintainable code and real-world utility.</p>
+      <p>Beyond software, I'm building <strong>MISFIT</strong>, an independent streetwear brand driven by individuality and creative direction.</p>
+    </td>
+    <td width="46%" valign="top">
+      <h3>02 &nbsp; / &nbsp; CURRENT FOCUS</h3>
+      <code>› Web applications &amp; interfaces</code><br /><br />
+      <code>› APIs &amp; backend development</code><br /><br />
+      <code>› Automation &amp; tooling</code><br /><br />
+      <code>› MISFIT / e-commerce</code>
+    </td>
+  </tr>
+</table>
 
-### Hey, I'm Damiano.
+<br />
 
-**Software Developer · Switzerland 🇨🇭**
+### `03 / TECH STACK`
 
-I build thoughtful digital products with a focus on performance, clean architecture and purposeful design.
+<sub>LANGUAGES & FRONTEND</sub>
 
-[![MISFIT Website](https://img.shields.io/badge/EXPLORE_MISFIT-misfitwear.ch-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://misfitwear.ch)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,html,css&theme=dark" alt="TypeScript, JavaScript, Python, React, Next.js, HTML, CSS" />
+</p>
 
-</div>
+<sub>BACKEND & MOBILE</sub>
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,expo&theme=dark" alt="Node.js, Express, React Native, Expo" />
+</p>
 
-### `01 / SYSTEM PROFILE`
+<sub>TOOLS & WORKFLOW</sub>
 
-```bash
-damiano@switzerland:~$ whoami
-> Software Developer / Independent Builder
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,github&theme=dark" alt="Git, Docker, VS Code, GitHub" />
+</p>
 
-damiano@switzerland:~$ cat focus.txt
-> Web applications
-> Backend systems & APIs
-> Automation & developer tooling
-> Building MISFIT
+<br />
 
-damiano@switzerland:~$ echo $MINDSET
-> Stay curious. Build with purpose.
+### `04 / TERMINAL`
+
+```console
+damiano@dev:~$ ./principles.sh
+
+[ OK ] Design with intention
+[ OK ] Build for real-world impact
+[ OK ] Keep it clean and maintainable
+[ OK ] Never stop learning
+
+process completed successfully.
 ```
 
-### `02 / TECHNICAL ARSENAL`
-
-**Languages & frontend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Backend & mobile**
-
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo&logoColor=white)
-
-**Environment & workflow**
-
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=22A7F2)
-
-### `03 / OPERATING PRINCIPLES`
-
-```text
-[+] Build for real people
-[+] Keep systems simple and maintainable
-[+] Understand the problem before writing code
-[+] Learn, iterate, improve
-```
-
----
+<br />
 
 <div align="center">
-
-<sub>DESIGN WITH INTENT &nbsp; // &nbsp; BUILD WITH PRECISION</sub>
-
+  <sub>ENGINEER THE EXPERIENCE &nbsp; · &nbsp; CREATE WITHOUT COMPROMISE</sub>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B11,50:6D45AD,100:0B0B11&height=3&section=footer" alt="" width="100%" />
 </div>
