@@ -26,13 +26,13 @@
 <table>
   <tr>
     <td width="54%" valign="top">
-      <h3>01 &nbsp; / &nbsp; WHO AM I</h3>
+      <h3>01 / WHO AM I</h3>
       <p>Hey, I'm <strong>Damiano</strong> — a software developer based in Switzerland.</p>
       <p>I create digital products with an emphasis on clean interfaces, maintainable code and real-world utility.</p>
       <p>Beyond software, I'm building <strong>MISFIT</strong>, an independent streetwear brand driven by individuality and creative direction.</p>
     </td>
     <td width="46%" valign="top">
-      <h3>02 &nbsp; / &nbsp; CURRENT FOCUS</h3>
+      <h3>02 / CURRENT FOCUS</h3>
       <code>› Web applications &amp; interfaces</code><br /><br />
       <code>› APIs &amp; backend development</code><br /><br />
       <code>› Automation &amp; tooling</code><br /><br />
@@ -43,40 +43,25 @@
 
 <br />
 
-### `03 / TECH STACK`
+### 03 / TECH STACK
 
-<sub>LANGUAGES & FRONTEND</sub>
+**Languages & Frontend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,html,css&theme=dark" alt="TypeScript, JavaScript, Python, React, Next.js, HTML, CSS" />
 </p>
 
-<sub>BACKEND & MOBILE</sub>
+**Backend & Mobile**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,expo&theme=dark" alt="Node.js, Express, React Native, Expo" />
 </p>
 
-<sub>TOOLS & WORKFLOW</sub>
+**Tools & Workflow**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,vscode,github&theme=dark" alt="Git, Docker, VS Code, GitHub" />
 </p>
-
-<br />
-
-### `04 / TERMINAL`
-
-```console
-damiano@dev:~$ ./principles.sh
-
-[ OK ] Design with intention
-[ OK ] Build for real-world impact
-[ OK ] Keep it clean and maintainable
-[ OK ] Never stop learning
-
-process completed successfully.
-```
 
 <br />
 
