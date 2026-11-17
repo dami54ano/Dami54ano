@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-labelledby="t d">
+<title id="t">Damiano — Software Developer and Founder of MISFIT</title><desc id="d">Dark profile banner with purple flowing accents and MISFIT wordmark</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c0a13"/><stop offset=".57" stop-color="#08080e"/><stop offset="1" stop-color="#020204"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8d4deb" stop-opacity="0"/><stop offset=".6" stop-color="#9a56f8" stop-opacity=".75"/><stop offset="1" stop-color="#a45bfc" stop-opacity="0"/></linearGradient>
+<linearGradient id="ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#d6d3dc"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1400" height="430" fill="url(#bg)"/>
+<path d="M550 270 C780 150 830 90 1300 -15" fill="none" stroke="url(#line)" stroke-width="20" opacity=".33" filter="url(#glow)"/>
+<path d="M590 255 C820 130 1030 60 1330 20" fill="none" stroke="url(#line)" stroke-width="2" opacity=".65"/>
+<path d="M690 430 C920 260 1130 375 1430 290" fill="none" stroke="url(#line)" stroke-width="25" opacity=".38" filter="url(#glow)"/>
+<path d="M670 430 C940 255 1130 350 1430 265" fill="none" stroke="url(#line)" stroke-width="2" opacity=".7"/>
+<rect x="50" y="65" width="8" height="300" fill="#aa70fa"/>
+<text x="90" y="145" fill="url(#ink)" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="65" letter-spacing="2">DAMIANO</text>
+<text x="92" y="201" fill="#c2bbce" font-family="Arial,Helvetica,sans-serif" font-size="23" letter-spacing="1">SOFTWARE DEVELOPER  /  FOUNDER</text>
+<text x="92" y="268" fill="#f1eef7" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800">BUILDING SOFTWARE.</text>
+<text x="92" y="311" fill="#b67aff" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800">CREATING BRANDS.</text>
+<text x="92" y="369" fill="#9993a5" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="1">SWITZERLAND  ·  MISFIT</text>
+<g transform="translate(775 220) skewX(-9)">
+<text x="0" y="0" fill="#b6adbf" opacity=".30" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-style="italic" font-size="111" letter-spacing="-6" transform="translate(3 5)">MISFIT</text>
+<text x="0" y="0" fill="#fff" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-style="italic" font-size="111" letter-spacing="-6">MISFIT</text>
+</g>
+<path d="M1281 73 L1293 112 L1334 123 L1294 135 L1282 176 L1270 135 L1229 123 L1270 111 Z" fill="#f9f7ff"/>
+<path d="M811 247 L819 270 L841 279 L819 287 L811 310 L803 287 L781 279 L803 271 Z" fill="#eeeafb"/>
+<path d="M1354 149 L1359 163 L1374 168 L1359 173 L1354 187 L1349 173 L1335 168 L1349 163 Z" fill="#eeeafb"/>
+</svg>
