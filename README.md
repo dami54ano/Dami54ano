@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/misfit-banner.svg" alt="Damiano — MISFIT" width="100%" />
+<img src="./assets/74cb3e07-9f59-41e2-b7ee-a5d18389a6b8.png" alt="Damiano — MISFIT" width="100%" />
 
 <br />
 
